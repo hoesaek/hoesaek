@@ -19,10 +19,10 @@ Voici une liste des activités qui m'occupent actuellement :
   - Je sur-kiff les webtoons de tous genres  
   
 
-   <a href="https://github.com/hoesaek/github-readme-stats">
+   <a href="https://github.com/hoesaek/hoesaek/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=nord" />
   </a>
-  <a href="https://github.com/hoesaek/convoychat">
+  <a href="https://github.com/hoesaek/hoesaek/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoesaek&layout=compact&langs_count=8&card_width=320&theme=nord" />
   </a>
   <br><br>
