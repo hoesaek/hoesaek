@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/hoesaek/hoesaek/image_no_text.png" alt="Image principale">
+<img src="[https://raw.githubusercontent.com/hoesaek/hoesaek/image_no_text.png](https://github.com/hoesaek/hoesaek/blob/main/image_no_text.png)" alt="Image principale">
 
 J'aime expérimenter avec de nouvelles technologies, construire de petits projets et participer occasionnellement à des hackathons. ✨
 
