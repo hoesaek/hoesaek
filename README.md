@@ -29,7 +29,7 @@
 
 # 📊 GitHub Stats:
 <a href="https://github.com/hoesaek">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=percentile" />
 </a>
 <a href="https://github.com/hoesaek">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=true&card_width=320&langs_count=15&layout=compact" />
