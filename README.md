@@ -36,8 +36,10 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)" />
 </a>
 <a href="https://github.com/hoesaek" style="text-decoration: none;">
-  <img height=400 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true&card_width=320" />
-</a></br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
+</a>
+<a href="https://github.com/hoesaek" style="text-decoration: none;">
+  <img height=300 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true&card_width=320" />
+</a>
 
 
