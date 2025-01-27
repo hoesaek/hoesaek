@@ -24,4 +24,21 @@ Voici une liste des activités qui m'occupent actuellement :
 </details>
 
 <hr>
-<img src="https://raw.githubusercontent.com/hoesaek/hoesaek/main/footer.png" alt="Bas de page">
+<footer style="text-align: center; margin-top: 20px;">
+  <p style="font-size: 14px; color: #6c757d;">
+    Créé avec 😄 par <a href="https://raw.githubusercontent.com/hoesaek" style="color: #007BFF; text-decoration: none;">Hoesaek</a>
+  </p>
+  <div>
+    <a href="#" style="margin: 0 10px; text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg" alt="GitHub" width="20">
+    </a>
+    <a href="#" style="margin: 0 10px; text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" alt="LinkedIn" width="20">
+    </a>
+    <a href="#" style="margin: 0 10px; text-decoration: none;">
+      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/twitter.svg" alt="Twitter" width="20">
+    </a>
+  </div>
+</footer>
+
+
