@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 👩🏻‍💻 Étudiant en développement web/logiciel.<br>
 - ☀️ Contribution à des projets open-source, toujours ouvert aux nouveaux contributeurs (parfait pour les débutants !).<br>
-- 🛠 Perfectionnement de mes compétences en **HTML**, **CSS**, **JavaScript**, **PHP**, **C++**, et **C#**.
+- 🛠 Perfectionnement de mes compétences en **HTML**, **CSS**, **JavaScript**, **PHP**, **ReactJs**, **C++**, et **C#**.
 
 # 💻 Languages and Tools 🧰
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) 
