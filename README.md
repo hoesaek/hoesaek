@@ -32,6 +32,6 @@ Voici une liste des activités qui m'occupent actuellement :
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=PHP_MVC&theme=gruvbox" />
 </a>
 <a href="https://github.com/hoesaek/Sondage-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=Sondage-App&theme=nord" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=Sondage-App&theme=gruvbox" />
 </a>
 
