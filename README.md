@@ -16,4 +16,4 @@
 ![](https://github-profile-trophy.vercel.app/?username=hoesaek&theme=radical&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
-[![](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Sondage-App)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=Sondage-App)
