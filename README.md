@@ -29,9 +29,9 @@ Voici une liste des activités qui m'occupent actuellement :
 <hr>
 
 <a href="https://github.com/hoesaek/PHP_MVC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=PHP_MVC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=PHP_MVC&theme=gruvbox" />
 </a>
 <a href="https://github.com/hoesaek/Sondage-App">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=Sondage-App" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=Sondage-App&theme=nord" />
 </a>
 
