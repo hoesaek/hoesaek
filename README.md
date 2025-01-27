@@ -31,7 +31,7 @@ Voici une liste des activités qui m'occupent actuellement :
 <a href="https://github.com/hoesaek/hoesaek/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=hoesaek" />
 </a>
-<a href="https://github.com/hoesaek/hoesaek/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=hoesaek" />
+<a href="https://github.com/hoesaek/Sondage-app">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=sondage_app" />
 </a>
 
