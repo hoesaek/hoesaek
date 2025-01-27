@@ -28,9 +28,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github)<br/>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&show_icons=true&rank_icon=github" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&card_width=320" />
+</a>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/__hoesaek__) 
