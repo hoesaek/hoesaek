@@ -32,17 +32,8 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 # 📊 GitHub Stats:
-<a href="https://github.com/hoesaek">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false" />
-</a>
-<a href="https://github.com/hoesaek">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-<a href="https://github.com/hoesaek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/hoesaek">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=convoychat" />
-</a>
 
