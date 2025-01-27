@@ -1,4 +1,4 @@
-J'aime expérimenter avec de nouvelles technologies, construire de petits projets et participer occasionnellement à des hackathons. ✨
+J'aime expérimenter avec de nouvelles technologies, construire de petits projets, m'instruire. ✨
 
 Voici une liste des activités qui m'occupent actuellement :
 
@@ -28,5 +28,10 @@ Voici une liste des activités qui m'occupent actuellement :
 
 <hr>
 
-
+<a href="https://github.com/hoesaek/hoesaek/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=hoesaek" />
+</a>
+<a href="https://github.com/hoesaek/hoesaek/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hoesaek&repo=hoesaek" />
+</a>
 
