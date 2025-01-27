@@ -1,44 +1,44 @@
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Hero image">
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/hero.svg" alt="Image principale">
 
-I like experimenting with new technologies, building small projects, and occassionally joining hackathons. ✨
+J'aime expérimenter avec de nouvelles technologies, construire de petits projets et participer occasionnellement à des hackathons. ✨
 
-Here's a list of things I currently keep myself busy with:
+Voici une liste des activités qui m'occupent actuellement :
 
-- 👩🏻‍💻 Working as a software engineer over at **[Rounded](https://rounded.io)**
-- ☀️ Maintaining **[Letra](https://github.com/jayehernandez/letra-extension)**, an open-source project I created (feel free to contribute, this is beginner friendly!)
-- ✍️ Writing tech blog posts over at **[dev.to](https://dev.to/jayehernandez)**.
-- 🛠 Getting myself into JAMStack. Trying out [11ty](https://www.11ty.dev/) and [Nuxt.js](https://nuxtjs.org/) in my spare time.
+- 👩🏻‍💻 Travail en tant que développeur logiciel.
+- ☀️ Contribution à des projets open-source, toujours ouvert aux nouveaux contributeurs (parfait pour les débutants !).
+- ✍️ Écriture d'articles techniques pour partager mes connaissances.
+- 🛠 Perfectionnement de mes compétences en **HTML**, **CSS**, **JavaScript**, **PHP**, **C++**, et **C#**.
 
 <details>
-  <summary>Some other facts about me-e-e</summary>
+  <summary>Quelques faits supplémentaires sur moi 😄</summary>
   <br>
-  <p><i>Siri play ME! by Taylor Swift ft. Brendon Urie 🎶</i><p>
+  <p><i>Hey Siri, joue "ME!" de Taylor Swift ft. Brendon Urie 🎶</i><p>
 
-  - I post random photos and trip snippets at **[VSCO](https://vsco.co/jayehernandez)**. (Look at the Journal's tab!)
-  - My go to jam when coding: musicals. Non-stop. ⭐️
-  - I absolutely adore Eevee, the best Pokemon.
+  - Je partage des photos aléatoires et des extraits de voyages.
+  - Ma playlist préférée quand je code : les comédies musicales, en boucle. ⭐️
+  - J'adore Évoli, le meilleur Pokémon.  
   
 
-  ![My github stats](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
+  ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=jayehernandez&show_icons=true&theme=nord)
   <br><br>
 </details>
 
 <hr>
 <p align="center">
-  <i>Let's connect and chat! Open to anything under the sun.</i>
+  <i>Connectons-nous et discutons ! Je suis ouvert(e) à tous les sujets.</i>
 
   <p align="center">
-    <a href="https://twitter.com/jayehernandez_" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
-    <a href="https://www.linkedin.com/in/jayehernandez/" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
-    <a href="mailto:jaye@jayehernandez.com" alt="Contact me"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
-    <a href="https://jayehernandez.com" alt="My site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
+    <a href="#" alt="Twitter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/twitter-fill.svg"></a>
+    <a href="#" alt="Linkedin"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/linkedin-fill.svg"></a>
+    <a href="#" alt="Me contacter"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/mail-fill.svg"></a>
+    <a href="#" alt="Mon site"><img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/3f5402efef9a0ae89211a6e04609558e862ca616/readme/external-link-line.svg"></a>
   </p>
 
   <p align="center">
-    <a href="https://visitor-badge.glitch.me/">
+    <a href="#">
       <img align="center" src="https://page-views.glitch.me/badge?page_id=jayehernandez.jayehernandez">
     </a>
   </p>
 </p>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="Bas de page">
