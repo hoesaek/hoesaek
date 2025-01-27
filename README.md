@@ -35,7 +35,7 @@
 <a href="https://github.com/hoesaek">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false)" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https:[//github.com/anuraghazra/convoychat](https://github.com/hoesaek)">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true&card_width=320" />
 </a></br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
