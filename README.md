@@ -20,6 +20,7 @@ Voici une liste des activités qui m'occupent actuellement :
   
 
   ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=hoesaek&show_icons=true&theme=nord)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&langs_count=8)
   <br><br>
 </details>
 
