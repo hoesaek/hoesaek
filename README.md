@@ -34,7 +34,9 @@
 <a href="#">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoesaek&theme=dark&hide_border=true&include_all_commits=true&count_private=false&card_width=320" />
 </a>
-![](https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true)<br/>
+<a href="#">
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoesaek&theme=dark&hide_border=true&card_width=500" />
+</a>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/__hoesaek__) 
